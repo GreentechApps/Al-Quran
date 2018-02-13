@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Al Quran (Tafsir & by Word)
 
-You can use the [editor on GitHub](https://github.com/GreenTechBd/Al-Quran-Tafsir-by-Word-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Alhamdulillah. Al Quran (Tafsir & by Word) is a Quran study tool for all. It provides verse by verse audio playback with repeat functions, Tafsir ibn kathir, Color Coded Tajweed, word by word Analysis and Translations, Index of Quran, note taking, custom bookmarks with sync, basic Notes with sync, powerful search, several simultaneous translations, multiple themes and fonts and much more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# You can enjoy:
+- Verse indexed Tafsir Ibn Kathir in English with embedded Arabic, Taqiuddin hilali commentary
+- 8 Arabic Tafsirs (including Ibn Kathir, Tabari etc.)
+- Color Coded Tajweed with the same color implementation as iquran (For Kitkat and up)
+- Word by Word Rendering, Root Information, Translation, Word Details and Verb Forms
+- Bookmarks / Favorites separated into user made categories
+- Quran Index
+- Taking notes in each ayah 
+- Bookmarks/Notes Import/export to online, file feature
+- A powerful full-text search engine with highlights
+- Robust audio system with repeat, group playback of verses function to aid in memorization
+- Various fonts, pinch-zoom feature and multiple Themes with night view
+- Autoscroll feature
+- Different Quran Translations viewable simultaneously: Bengali, Chinese, English, French, Hindi, German, Indonesian, Italian, Malay, Russian, Spanish, Urdu, Telgeu, Tamil and many more
+- Several downloadable recitations for verse by verse recital (supports gapless / continuous recitation) including Qari Mishary Al-Afasy, Qari Husari (muallim), Qari Abdur Rahman As Sudais and many other Qaris
+- App translated to English, Bangla, German, French, Indonesia, Malay, Russian, Arabic, Spanish
 
-### Markdown
+Share and recommend this beautiful application to your friends and relatives. May Allah bless us in this world and hereafter.
+"Whoever calls people to right guidance will have a reward like that of those who follow him..." - Sahih Muslim, Hadith 2674
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Like us on Facebook: https://www.facebook.com/greentech0
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GreenTechBd/Al-Quran-Tafsir-by-Word-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://play.google.com/store/apps/details?id=com.greentech.quran

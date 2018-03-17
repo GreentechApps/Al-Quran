@@ -25,3 +25,5 @@ Share and recommend this beautiful application to your friends and relatives. Ma
 Like us on Facebook: https://www.facebook.com/greentech0
 
 https://play.google.com/store/apps/details?id=com.greentech.quran
+
+Visit https://greentechapps.com for other awesome apps and to contact us
